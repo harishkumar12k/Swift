@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0263365F28379E3C00A1EF41 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0263365E28379E3C00A1EF41 /* Functions.swift */; };
 		0289F98A2827B28B00B9B95F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0289F9892827B28B00B9B95F /* AppDelegate.swift */; };
 		0289F98C2827B28B00B9B95F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0289F98B2827B28B00B9B95F /* SceneDelegate.swift */; };
 		0289F98E2827B28B00B9B95F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0289F98D2827B28B00B9B95F /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0263365E28379E3C00A1EF41 /* Functions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
 		0289F9862827B28B00B9B95F /* SwiftLanguage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLanguage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0289F9892827B28B00B9B95F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0289F98B2827B28B00B9B95F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				0289F9892827B28B00B9B95F /* AppDelegate.swift */,
 				0289F98B2827B28B00B9B95F /* SceneDelegate.swift */,
 				0289F98D2827B28B00B9B95F /* ViewController.swift */,
+				0263365E28379E3C00A1EF41 /* Functions.swift */,
 				0289F98F2827B28B00B9B95F /* Main.storyboard */,
 				0289F9952827B28C00B9B95F /* Assets.xcassets */,
 				0289F9972827B28C00B9B95F /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				0289F98E2827B28B00B9B95F /* ViewController.swift in Sources */,
 				0289F98A2827B28B00B9B95F /* AppDelegate.swift in Sources */,
 				0289F98C2827B28B00B9B95F /* SceneDelegate.swift in Sources */,
+				0263365F28379E3C00A1EF41 /* Functions.swift in Sources */,
 				0289F9942827B28B00B9B95F /* SwiftLanguage.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
