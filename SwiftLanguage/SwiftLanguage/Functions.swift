@@ -153,4 +153,25 @@ class Functions {
         }
     }
     
+    /**
+        Addition of number with default value as parameter
+     */
+    func incrementNumber(num: Int, incrementBy: Int = 1) -> Int {
+        return num + incrementBy
+    }
+    
+    /**
+        Passing number as veriadic parameter
+     */
+    func veriadicFunction(numbers: Int...) {
+        print("veriadicFunction: \(numbers)")
+    }
+    
+    /**
+        Passing number with Inout fuctionality
+     */
+    func parameterWithInOut(num: inout Int) {
+        num += 1
+    }
+    
 }
