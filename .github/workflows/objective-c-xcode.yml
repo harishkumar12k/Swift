@@ -1,12 +1,1 @@
-name: Xcode - Build and Analyze
 
-on:
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
-
-jobs:
-  build:
-    name: Build and analyse default scheme using xcodebuild command
-    runs-on: macos-latest
